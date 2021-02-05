@@ -1,0 +1,23 @@
+1.find name of the game
+MODE 1
+2.find the charaters (pc,npc)
+3.find background
+4.move the player on pressing arrow keys
+5.spawn zombies 
+6.create boundry sprite & restrict movement outside boundries.
+7.create shooting funcnality
+8.create score 
+9. health bar
+10.reduse health bar when zombie attacks the player
+11. lose the game when health bar is empty
+MODE 2
+11.find the charaters(pc,npc)
+12.find background 
+13.use database to create 5 player mutiplayer game
+14.arrow keys movement
+15.create amo house 
+16.create shootiog funcnality
+17.create health bar
+18.the player with empty health bar will be not be able to move but can see the game 
+19.display rank
+20.combine mode 1 and mode 2 
